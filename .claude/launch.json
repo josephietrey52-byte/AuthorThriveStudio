@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "site",
+      "runtimeExecutable": "C:\\Program Files\\nodejs\\node.exe",
+      "runtimeArgs": ["C:\\Users\\DELL\\AppData\\Local\\Temp\\claude\\c1f6a960859e3e1f\\5b5623d5-bba5-4ceb-a2c9-3b2d57a2922c\\scratchpad\\serve.js", "C:\\Users\\DELL\\Desktop\\authorthrivestudio", "5173"],
+      "port": 5173
+    }
+  ]
+}
